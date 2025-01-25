@@ -57,11 +57,11 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
 </div>
 <br>
-<h2> Github Stats <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 35px>  </picture></h2>
+<h2> Github Stats <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="35px"></picture></h2>
 
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=ArturoDev25&theme=react&show_icons=true&include_all_commits=true"/>
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturoDev25&theme=react&layout=compact" />
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ArturoDev25&theme=react&show_icons=true&include_all_commits=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturoDev25&theme=react&layout=compact" />
+</div>
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/ArturoDev25/ArturoDev25/output/snake.svg" alt="Snake animation" />
